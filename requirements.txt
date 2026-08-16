@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+imbalanced-learn
+tensorflow
+optuna
+pyswarms
+mealpy
+pyarrow
